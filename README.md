@@ -5,7 +5,7 @@ El lenguaje desempeña un papel crucial en la comunicación y puede influir en l
 
 ## 🎯 Objetivos
 - 📊 Analizar la variabilidad en la redacción de las publicaciones de empleo.
-- 🤖 Implementar un modelo de predicción basado en NLP y redes neuronales.
+- 🤖 Implementar un modelo de predicción basado en NLP usando la estrategia de words embeddings.
 - 📉 Evaluar el impacto del lenguaje en la decisión de aplicar a un empleo.
 
 ## 🛠️ Tecnologías Utilizadas
