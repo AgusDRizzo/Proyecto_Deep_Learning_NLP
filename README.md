@@ -12,7 +12,6 @@ El lenguaje desempeña un papel crucial en la comunicación y puede influir en l
 - 🐍 **Python**
 - 🏗 **Pandas, NumPy** (procesamiento de datos)
 - 📝 **NLTK, SpaCy** (procesamiento de texto)
-- 🧠 **TensorFlow, Keras** (Deep Learning)
 - 📊 **Scikit-learn** (evaluación de modelos)
 - 📈 **Matplotlib, Seaborn** (visualización de datos)
 
